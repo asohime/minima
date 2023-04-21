@@ -1,5 +1,7 @@
 ---
 layout: post
+title: プライバシーポリシー
+author: asohime
 ---
 
 # プライバシーポリシー
