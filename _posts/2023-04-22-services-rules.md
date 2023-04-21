@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "サービス利用規約"
+categories: docs
 author:
 - Asohime
-meta: ""
 ---
 
 # サービス利用規約
