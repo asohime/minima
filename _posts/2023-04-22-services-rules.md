@@ -1,7 +1,7 @@
 ---
 layout: post
 title: サービス利用規約
-parmalink: /
+parmalink: /rules/
 author: Asohime
 ---
 
