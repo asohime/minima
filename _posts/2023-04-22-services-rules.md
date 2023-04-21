@@ -2,8 +2,7 @@
 layout: post
 title: "サービス利用規約"
 categories: docs
-author:
-- Asohime
+author: Asohime
 ---
 
 # サービス利用規約
