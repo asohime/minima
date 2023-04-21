@@ -1,7 +1,8 @@
 ---
 layout: post
-title: プライバシーポリシー
-author: asohime
+title: "プライバシーポリシー"
+author: 
+ - asohime
 ---
 
 # プライバシーポリシー
